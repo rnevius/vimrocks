@@ -4,7 +4,7 @@ Yes, Vim does rock, even in the 21<sup>st</sup> century. Here are some episodes 
 
 ## Contents
 
-1. Refactor JavaScript with visual mode
-2. Use the expression register to do simple subtraction
-
+01. Refactor JavaScript with visual mode
+02. Use the expression register to do simple subtraction
+03. Macros to transpose function arguments
 
