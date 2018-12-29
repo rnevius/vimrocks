@@ -1,4 +1,6 @@
 // let @s = "0:s/tE/t.e%"adT 2X%aa, 2j"
+// Set up a mapping to do this automatically:
+// nnoremap <Leader>s 0:s/tE/t.e<CR>%"adT<Space>2X%a<C-r>a,<Space><Esc>
 
 assert.equals(actual, expected);
 
