@@ -1,8 +1,8 @@
 Matsumoto  Yukihiro  Ruby  1965  Japan
 Ritchie  Dennis  C  1941  USA
 Wall  Larry   Perl  1954  USA
-Lerdorf  Rasmus  1968  Denmark
-Stallman  Richard GNU 1953  USA
+Lerdorf  Rasmus  PHP  1968  Denmark
+Stallman  Richard  GNU  1953  USA
 Lattner  Chris  Swift  1978  USA
 Tridgell  Andrew  Samba  1967  Australia
 Moler  Cleve  MATLAB  1939  USA

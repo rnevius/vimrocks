@@ -1,0 +1,16 @@
+// %!column -t
+// :sort
+// Record macro into register s: qs03wciw=2018-"jq
+// 10@s
+
+Armstrong  Joe       Erlang  68  England
+Lattner    Chris     Swift   40  USA
+Lerdorf    Rasmus    PHP     50  Denmark
+Matsumoto  Yukihiro  Ruby    53  Japan
+Moler      Cleve     MATLAB  79  USA
+Moolenar   Bram      Vim     57  Netherlands
+Ritchie    Dennis    C       77  USA
+Stallman   Richard   GNU     65  USA
+Thompson   Ken       Unix    75  USA
+Tridgell   Andrew    Samba   51  Australia
+Wall       Larry     Perl    64  USA
