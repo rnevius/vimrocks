@@ -1,14 +1,14 @@
-assertEquals(expected, actual);
+assertEqual(expected, actual);
 
-assertEquals("abc", my.string);
+assertEqual("abc", my.string);
 
-assertEquals("A long string", my.longString);
+assertEqual("A long string", my.longString);
 
-assertEquals(["an", "array"], my.array);
+assertEqual(["an", "array"], my.array);
 
-assertEquals({ an: "object" }, my.object);
+assertEqual({ an: "object" }, my.object);
 
-assertEquals({ and: "also",
-               multiline: "objects"
-             }, my.second_object);
+assertEqual({ and: "also",
+              multiline: "objects"
+            }, my.second_object);
 
