@@ -1,6 +1,6 @@
-// let @s = "0:s/tE/t.e%"adT 2X%aa, 2j"
-// Set up a mapping to do this automatically:
-// nnoremap <Leader>s 0:s/tE/t.e<CR>%"adT<Space>2X%a<C-r>a,<Space><Esc>
+// Substitute: :%s/Eq/.eq
+// Macro: 0%"adT 2X%aa, 2j
+// Visually select the remaining lines and run the macro.
 
 assert.equals(actual, expected);
 
